@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3732b9c9be0c3d4469e8fd65a8788b97, type: 3}
+  m_Name: J
+  m_EditorClassIdentifier: 
+  prefabName: J Tetronimo
+  points: 2
+  prefab: {fileID: 2136516393765517800, guid: 9a085d46de0a0e246833491b32d3d866, type: 3}
+  sprite: {fileID: 21300000, guid: 5bb2ab86a62a8ab4583a156e095281f2, type: 3}
+  spawnPoints:
+  - {x: 5, y: 19, z: 0}
